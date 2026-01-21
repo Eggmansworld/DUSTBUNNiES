@@ -31,7 +31,7 @@ DUSTBUNNiES is split into several high-level thematic groups, each with its own 
 
 ---
 
-### 🖥️ DUSTBUNNiES
+### 🖥️ DUSTBUNNiES-Core
 - core collection that contains non-optical roms and files
 
 - **Arcade:**
@@ -56,7 +56,7 @@ Subcategories include (by format or purpose):
 
 ---
 
-### 📦 DUSTBUNNiES-Collections
+### 🖥️ DUSTBUNNiES-Collections
 
 Cross-platform and conceptual groupings:
 - Arcade
@@ -71,7 +71,7 @@ Cross-platform and conceptual groupings:
 
 ---
 
-### 🧮 DUSTBUNNiES-Commodore
+### 🖥️ DUSTBUNNiES-Commodore
 
 Everything Commodore-adjacent that doesn’t exist in clean, curated sets yet:
 - C= OS Vision
