@@ -126,6 +126,16 @@ Optical disc images and disc-based ecosystems that don’t exist in clean Redump
 
 ---
 
+## Support
+
+If these tools, dats, or archives save you time, consider supporting the work:
+
+<a href="https://buymeacoffee.com/eggmansworld">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="45" alt="Buy Me a Coffee">
+</a>
+
+---
+
 ## Licensing
 
 Original source code, scripts, tooling, and hand-authored documentation and
