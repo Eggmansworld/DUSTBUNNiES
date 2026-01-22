@@ -61,8 +61,6 @@ Subcategories include (by format or purpose):
 Cross-platform and conceptual groupings:
 - Arcade
 - Computer
-  Gruby's Adventure Pack 2022-05-14 (No ScummVM).zip
-  Sierra Copy Protection Compendium.zip
 - Computer-Digital
 - Console
 - Firmware
