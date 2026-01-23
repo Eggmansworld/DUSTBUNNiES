@@ -133,7 +133,8 @@ If you would like to be recognized for your donations, include a note inside the
 
 Use the MEGA uploads folder here:
 
-[![Upload to MEGA](https://img.shields.io/badge/Upload-Files_to_MEGA-red?logo=mega&logoColor=white)](https://mega.nz/filerequest#!8y7XTuVrMyc!d!en)
+[![mega_uploads](https://github.com/user-attachments/assets/bdd28a8c-6db1-42cc-b0e6-6dc1250b8f8a)](https://mega.nz/filerequest/8y7XTuVrMyc) 
+
 
 ## Support
 
