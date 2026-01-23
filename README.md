@@ -125,6 +125,15 @@ Optical disc images and disc-based ecosystems that don’t exist in clean Redump
 - DUSTBUNNiES is where uncertainty is allowed to exist — neatly.
 
 ---
+## Contributing
+
+Have some unknown files that still don't match with the dats? Pack your unknown files up into separate folders named for their system, then create a single archive for each system (zip/7z/rar/tar/gz are all acceptable).  Simply upload them to the Mega Uploads folder provided below. You don't need an account, simply drag and drop into the webpage! We'll give this a try and hopefully I won't see any abuse of the uploads folder.
+
+If you would like to be recognized for your donations, include a note inside the uploads and I'll be sure to add you to a thank you list on this page.
+
+Use the MEGA uploads folder here:
+
+[![Upload to MEGA](https://img.shields.io/badge/Upload-Files_to_MEGA-red?logo=mega&logoColor=white)](https://mega.nz/filerequest#!8y7XTuVrMyc!d!en)
 
 ## Support
 
