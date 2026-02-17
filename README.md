@@ -134,8 +134,9 @@ If you would like to be recognized for your donations, include a note inside the
 
 Use the MEGA uploads folder here:
 
-[![mega_uploads](https://github.com/user-attachments/assets/bdd28a8c-6db1-42cc-b0e6-6dc1250b8f8a)](https://mega.nz/filerequest/8y7XTuVrMyc) 
+[![mega_uploads](https://github.com/user-attachments/assets/bdd28a8c-6db1-42cc-b0e6-6dc1250b8f8a)](https://mega.nz/filerequest/CgJbFGg8ZCI) 
 
+---
 
 ## Support
 
