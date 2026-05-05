@@ -2,7 +2,7 @@
 
 **DUSTBUNNiES** is a curated holding archive for **undatted, unclassified, and otherwise homeless ROMs, disk images, firmware, tools, and oddities** that do not currently belong in any known or official DAT set.
 
-Think of it as a **quarantine / staging archive**:  
+Think of it as a **staging archive**:  
 Files live here while they are unidentified, poorly classified, uncatalogued, or awaiting proper sorting into a real collection.
 
 This is **not** a trash pile. Everything here is intentionally kept, categorized, and tracked.
@@ -25,18 +25,47 @@ If a file eventually gets properly identified and adopted into a real collection
 
 ---
 
+## DEEP FOLDER STRUCTURE WARNING
+
+This collection, simply through natural categorization and sorting, will always have its share of deep nested folders and long filenames. To ensure that things do not get out of hand, I have written my own tools to scan this collection before datting to ensure:
+- from the top-level folder of this collection, the longest full path length, including the filename, should fall within 200 characters
+- there may be the odd exception where I've allowed it to go slightly above 200, but the **hard upper limit is 210 characters max**
+- 210 characters allows enough wiggle room for the "invisible" portions of the file paths that the user will never see (eg. "C:/ROMVault/DatRoot/"), or the server-side cloud path prefix of a cloud-connected folder, which i've seen up to 40 characters in length for an online host like OneDrive. Also, some scripting languages and older apps will forbid exceeding the 260-char path length limit even if you have it bypassed.
+
+Therefore, I am stating that it is a REQUIREMENT to physically place the "DUSTBUNNiES" top-level folder location in the root of your storage volume, and work off of it from there.  If you choose to alter this placement, you are on your own for any path length issues that could surface when working on the collection with other tools and apps (RomVault will do just fine though).
+
+### How I handle extremely long filenames: 
+
+First, I ensure the folder path naming is optimized as best as possible. Maintaining tight folder naming is critical.
+
+If that doesn't help, the general order of operations for shortening filenames are as follows:
+1. condense empty space between brackets: ") (" becomes ")("
+2. condense empty space between separators such as commas, semicolons, dashes:  "this, that" becomes "this,that" and "what - why" becomes "what-why"
+3. trim superfluous wording:  "T-En by DatGuy" becomes "T-En DatGuy" and "Game needs 512MB of RAM to operate" becomes "512MB RAM reqd"
+4. adjust long-form dates:  "December 25 2020" becomes "2020-12-25"
+5. if the name is still too long, begin trimming non-title words and info from the filename, in order of importance to the overall filename (author names usually are the first to go at this point).
+
+It's a delicate balance when removing or trimming filenames. You want to preserve as much information in the filename as possible but the realization is all the extra fluff the creators put into the filename would have been better in a readme, but not everyone always has enough reason to do so. Also, readme's are easy to lose and discard as unwanted. Just ask someone like No-Intro where all the readme's are stored for the roms they put into their datfiles. :P
+
+Regardless of my ensuring that the length of the paths and files stay within the 260-chracter Windows limit, YOU MUST ENABLE LONG PATH LENGTH SUPPORT in Windows if you know what's good for you.  It does not cost you anything at all, other than simply enabling it.  It's a simple registry addition, anyone can do it.
+
+here's a step by step illustrated guide: [How to Enable Win32 Long Paths in Windows 11](https://www.thewindowsclub.com/how-to-enable-or-disable-win32-long-paths-in-windows-11-10)
+
+the official docs: [Microsoft - Maximum Path Length Limitation](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry)
+
+---
+
 ## Collection Structure
 
 DUSTBUNNiES is split into several high-level thematic groups, each with its own internal taxonomy.
 
 - Amiga
-- Amiga - Collections
+- Amiga Collections
 - Commodore
+- Commodore Collections
 - Core
-- Core - Collections
+- Core Collections
 - Disc
-- Scene
-
 ---
 
 ## 🖥️ DUSTBUNNiES-Amiga
@@ -90,7 +119,7 @@ Focused on **Amiga-related disk formats, tools, and odd artifacts** that don’t
 
 ## 💿 Disc
 
-Optical disc images and disc-based ecosystems that don’t exist in clean Redump, No-Intro or any other Non-XX or known sets:
+Optical disc images and disc-based ecosystems that don’t exist in clean Redump, No-Intro or any other Non-ABCXYZ or known sets:
 - Commodore Amiga
 - Mattel Intellivision
 - Nintendo Gamecube
@@ -100,12 +129,6 @@ Optical disc images and disc-based ecosystems that don’t exist in clean Redump
 - Sony PlayStation 2
 - Sony PlayStation Portable
 - Win95
-
----
-
-## :pirate_flag: Scene
-
-These are mostly scene folders containing metadata such as nfo, diz, and sfv. For use with the dats.site datfiles and scene folders that end up in these folders haven't been catalogued yet, or are not identical matches to what's expected in the dats.
 
 ---
 
