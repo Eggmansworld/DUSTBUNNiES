@@ -1,11 +1,11 @@
-<img width="1536" height="1024" alt="DUSTBUNNiES" src="https://github.com/user-attachments/assets/30c42459-bf4e-4f7e-a821-4b1bbebcfa5e" />
-
 **DUSTBUNNiES** is a curated holding archive for **undatted, unclassified, and otherwise homeless ROMs, disk images, firmware, tools, and oddities** that do not currently belong in any known or official DAT set.
 
 Think of it as a **staging archive**:  
 Files live here while they are unidentified, poorly classified, uncatalogued, or awaiting proper sorting into a real collection.
 
 This is **not** a trash pile. Everything here is intentionally kept, categorized, and tracked.
+
+<img width="1536" height="1024" alt="DUSTBUNNiES" src="https://github.com/user-attachments/assets/30c42459-bf4e-4f7e-a821-4b1bbebcfa5e" />
 
 ---
 
@@ -22,6 +22,81 @@ This is **not** a trash pile. Everything here is intentionally kept, categorized
   - A historical record of “stuff that didn’t fit anywhere else (yet)”
 
 If a file eventually gets properly identified and adopted into a real collection, **it should leave DUSTBUNNiES**.
+
+---
+
+## Collection Structure
+
+DUSTBUNNiES is split into several high-level thematic groups, each with its own internal taxonomy. Before you ask why Commodore and Amiga get their own folders?  Simple: these are my favorite platforms, and I enjoy keeping them separated from everything else. They're also huge sets in their own right and I wanted to try to balance out the volume of files per top level folder.
+
+---
+
+**Amiga**<br>
+```Dat format: Mixed (Archive as File)```<br>
+Focused on **Amiga-related disk formats, tools, and odd artifacts** that don’t exist in clean TOSEC/No-Intro/Redump-style sets, such as:<br>
+ADF, ARC, BIN, CDXL, DMS, EXE, FDI, HDF, HFE, IMG, IPF, LHA, LZH, LZX, MFM, MID, MOD, RDF, ROM
+
+---
+
+**Amiga Collections**<br>
+```Dat format: Zip archives```<br>
+
+---
+
+**Commodore**<br>
+```Dat format: Mixed (Archive as File)```<br>
+Everything Commodore-adjacent that doesn’t exist in clean, curated sets yet, such as:<br>
+8296, C16-C116-Plus4, C64, C64 DTV, C64 Mini, C65, C128, CBM, COMAL, Commander X16, CPM, MEGA65, OS Vision, PC-xx, VIC20
+
+---
+
+**Commodore Collections**<br>
+```Dat format: Zip archives```<br>
+
+---
+
+**Core**<br>
+```Dat format: Mixed (Archive as File)```<br>
+The main collection of files, split between platform -> system/vendor -> file extension.
+
+**Computer**<br>
+Contains the majority non-optical roms and files, such as:<br>
+Acorn, Advanced Micro Devices, Agon, Altos Computer Systems, Amstrad, APF, Apollo Guidance Computer, Apple, Applied Technology, Apricot Computers, AT&T, Atari, ATM, Baiyi Animation, Batong Sunsonic, BBG Electronics, Be Incorporated, Berkeley Computer Corporation, BINBUG-based machines, BNPO, Bondwell, Bung Dr PC Jr, California Computer Systems, Cambridge Computer, Camputers, Canon, Casio, CCE, CDP, Central Data 2650, Cidelsa, Coleco, Compaq, Compuduct, Compupro, Computer Automation, CompuView Products, COMX, Control Data Corporation, Convergent Technologies, Corvus System, Cromenco, CTC, D-X Designs, DAI, Data Machines, DEC, Dick Smith Electronics, Digital Microsystems, Digital Research, DOS, DOSV, Dragon Data, Dunfield, Dy4, Dynalogic, EACA, Elektor, Elektronika, Elektronska Industrija Nis, ELF Linux, Elwro, Emerson, Ensoniq, Enterprise, Epson, Exelvision, Exidy, Fairchild, Fairlight, Ferguson, Foenix, Fujitsu, Galaksija, Gateway 2000, GO Corporation, Heathkit, Heathkit, Zenith, Heurikon, Hewlett-Packard, Hiradastechika, Hitachi, Hofacker MIKIT 2650, HomeLab, Honeywell, IBM PC, IBM PC 8088-86, Imlac, InterContinental Micro System, Interdata, Intertec, Interton VC 4000, Jupiter, Jupiter Cantab, Kaypro, KingWon, Kontron, KORG, Korvet, Leading Edge, Lemz, LOBO Systems, Luxor, Lviv, M&D, Magnavox, Philips, Matra-Hachette, Matra Hachette, Mattel, Megatel, Memotech, MGT, Micro Craft, Microboard PC Dev System, Microdigital Eletronica, Microengine Distributions, Microkey, Microkit, Micromint, Micronique, Milton Bradley, MITS, Morrow, MOS Technology, Motorola, MSX, NABU, Nascom, National, NCR, NCR Decision Mate V, ncurses, NEC, Nintendo, Norsk Data, Nortel, NorthStar, Nuova Elettronica, OCC, Olivetti, Orion, Packard Bell, Panasonic Panaword U1, Patisonic, PCem, PEL Varazdin, Pentagon, Pentasonic, PERQ, Peters Plus, Philips, PHUNSY, PIPBUG-based machines, Pravetz, Psion, PTC, Radio-86RK, Ravensburger Selbstbaucomputer, RCA, Regnecentralen, Research UNIX, Roland, Sage, Sanyo, Schneider, SCO, Sega, Sharp, Siemens, Signetics Instructor 50, Signetics TWIN, Sinclair, Sirius, Softech, Sony, Sord, Specialist, Spectravideo, Standard Elektrik Lorenz, Subor, SVI Spectravideo, Takara, Tandy Radio Shack, Tangerine, Tatung, Technosys, Tektronix, Telenova, TeleVideo Systems, Telmac, Temirazov & Sokolov, Texas Instruments, Thomson, Tiki Data, Timex, Toshiba, Trios Micro Systems, Triumph-Adler, UCSD, UKNC, VEB EAW, VEB Mikroelektronik, VEB Robotron, Video Technology, VideoBrain, Videoton, VTech, Wang, Windows (Japan), WonderSoft COMPAC, Xerox, Xircom, Yuxing, Zenith, Zeta Microcomputer, ZhongSuo
+
+**Computer-Digital:**<br>
+Fantasy Consoles
+
+**Console:**<br>
+Atari, Bally, Capcom, Casio, Coleco, Emerson, Epoch, Funtech, GCE, JungleTac, Konix, Leapfrog, Magnavox, Mattel, NEC, Nintendo, Philips, RCA, Sega, Sony, Tectoy, View-Master Interactive Vision, VTech
+
+**Handhelds:**<br>
+Analogue, Arduboy, Atari, Bandai, Benesse, Bit Corporation, Cassiopeia, Creatronic, Cybiko, Epoch, Evercade, EXEQ, Game & Watch, Gamebuino, GamePark, GCE, iQue, LeapFrog, Nikko, Nintendo, Nokia, Pimoroni, Pokemon TCG, Pokitto Oy, Sega, SNK, Tapwave, Texas Instruments, Tiger Telematics, VTech, Watara Supervision, Welback, WonderWitch
+
+**Music:**<br>
+OverClocked ReMoved
+
+---
+
+**Core Collections**<br>
+```Dat format: Zip archives```<br>
+
+---
+
+**Disc**<br>
+```Dat format: Zip archives```<br>
+Optical disc images and disc-based ecosystems that don’t exist in clean Redump, No-Intro or any other Non-ABCXYZ or known sets:<br>
+Atari 8-bit, Atari Jaguar CD, Commodore Amiga, Mattel Intellivision, Nintendo Gamecube, Nintendo Wii, Sega Dreamcast, Sony PlayStation 2, Sony PlayStation Portable, Sun, Win95
+
+---
+
+## Curation Rules
+
+- This is **not** an unsorted dumping ground.
+- Everything here should:
+  - Be categorized
+  - Have a reason to exist here
+  - Be a candidate for future identification or migration
+- If something gets a proper home elsewhere, **it should be removed from DUSTBUNNiES**.
 
 ---
 
@@ -55,108 +130,25 @@ the official docs: [Microsoft - Maximum Path Length Limitation](https://learn.mi
 
 ---
 
-## Collection Structure
-
-DUSTBUNNiES is split into several high-level thematic groups, each with its own internal taxonomy.
-
-- Amiga
-- Amiga Collections
-- Commodore
-- Commodore Collections
-- Core
-- Core Collections
-- Disc
----
-
-## 🖥️ DUSTBUNNiES-Amiga
-
-Focused on **Amiga-related disk formats, tools, and odd artifacts** that don’t exist in clean TOSEC/No-Intro/Redump-style sets.
-
-### Subcategories include (by format or purpose):
-060, A2500, ADF, ADZ, AMOS, ARC, ASM, BIN, CAPS, Collections, CT, CTR, EXE, FDI, HDF, HFE, IMG, IPF, LHA, LZH, LZX, MFM, RDF, ROM, SCP, USS, ZOM, ZOO.
-
----
-
-## 🖥️ DUSTBUNNiES-Commodore
-
-### Everything Commodore-adjacent that doesn’t exist in clean, curated sets yet:
-- C= OS Vision
-- C16-C116-Plus4
-- C64
-- C64 DTV
-- C64 Mini
-- C65
-- C128
-- CBM-II
-- CBM 510
-- CBM 610
-- CBM PET
-- COMAL
-- Commander X16
-- commodore.software (website backup)
-- CPM
-- GeoWorks
-- MEGA65
-- VIC20
-
----
-
-## 🖥️ **Core** and **Core - Collections**
-- Core contains non-optical roms and files, where the collections are larger archives containing entire curated collections that have not yet been datted.
-- **Arcade:** Pinball, Taito, 
-- **Computer:**
-    - Acorn, Amstrad, Apollo Guidance Computer, Apple, Applied Technology, Atari, Batong Sunsonic, BBG Electronics, Berkeley, Computer Corporation, BINBUG-based machines, Bung Dr PC Jr, Camputers, Canon, Casio, CCE, Central Data 2650, Cidelsa, Coleco, COMX, DEC, Dick Smith, Digital Research, DOS, DOSV, Dragon Data, Elektor TV Games Computer, Elektronika, Elektronska Industrija Nis, ELF Linux, Emerson, Enterprise, Exelvision, Fairchild, Foenix, Fujitsu, Galaksija, Heathkit, Hitachi, Hofacker MIKIT 2650, IBM PC, IBM PC 8088-86, Interton VC 4000, Jupiter, Kaypro, KingWon, Matra-Hachette, Mattel, MGT, Microboard Computer Development System, Microkey, Micronique, Motorola, MSX, NABU, National, NCR Decision Mate V, ncurses, NEC, Nintendo, Olivetti, Panasonic Panaword U1, PCem, Peters Plus, Philips, PHUNSY, PIPBUG-based machines, Raspberry Pi, Ravensburger Selbstbaucomputer (aka 2650 Minimal Computer), RCA, Research UNIX, Robotron, Sanyo, Sega, Sharp, Signetics Instructor 50, Signetics TWIN, Sinclair, Sony, Sord, Subor, SVI Spectravideo, Tandy, Tangerine, Telmac, Texas Instruments, Thomson, Timex, Toshiba, VEB Robotron-Elektronik Dresden, Video Technology, Videoton, VTech, Windows (Japan), WonderSoft COMPAC, Xerox, Yuxing, ZhongSuo
-- **Computer-Digital:**
-    - Fantasy Consoles, RetroArch BIOS
-- **Console:**
-    - APF, Atari, Bally, Capcom, Casio, Coleco, Epoch, Funtech, GCE, Konix, Leapfrog, Magnavox, Mattel, Microsoft, Motion Activated Gaming Console, NEC, Nintendo, Philips, RCA, Sega, Sony, Tectoy, View-Master Interactive Vision, VTech.
-- **Handhelds:**
-    - Analogue, Arduboy, Atari, Bandai, Benesse, Bit Corporation, Cassiopeia, Creatronic, Evercade, EXEQ, Game & Watch, Gamebuino, GamePark, GCE, HP, LeapFrog, Nikko, Nintendo, Nokia, Palm OS, Panic, Pimoroni, Pokemon TCG, Pokitto Oy, Sega, SNK, Sony, Texas Instruments, VTech, Welback, WonderWitch.
-- **Music:**
-    - AmigaRemix, OCRemix, OverClocked ReMoved, Remix.Kwed.org
-
----
-
-## 💿 Disc
-
-Optical disc images and disc-based ecosystems that don’t exist in clean Redump, No-Intro or any other Non-ABCXYZ or known sets:
-- Commodore Amiga
-- Mattel Intellivision
-- Nintendo Gamecube
-- Nintendo Wii
-- Philips CD-i
-- Sega Dreamcast
-- Sony PlayStation 2
-- Sony PlayStation Portable
-- Win95
-
----
-
-## Curation Rules
-
-- This is **not** an unsorted dumping ground.
-- Everything here should:
-  - Be categorized
-  - Have a reason to exist here
-  - Be a candidate for future identification or migration
-- If something gets a proper home elsewhere, **it should be removed from DUSTBUNNiES**.
-
----
-
 ## Philosophy
 
 - Real archives are built from uncertainty first.  
 - DUSTBUNNiES is where uncertainty is allowed to exist — neatly.
 
 ---
+
 ## Contributing
 
-Have some unknown files that still don't match with the dats? Pack your unknown files up into separate folders named for their system, then create a single archive for each system (zip/7z/rar/tar/gz are all acceptable).  Simply upload them to the Mega Uploads folder provided below. You don't need an account, simply drag and drop into the webpage! We'll give this a try and hopefully I won't see any abuse of the uploads folder.
+Do you have some unknown files that still don't match with any dats? Submit them!
 
-If you would like to be recognized for your donations, include a note inside the uploads and I'll be sure to add you to a thank you list on this page.
+1. Put your unknown files in separate folders named for their system
+2. create a single archive for each folder (zip/7z/rar/tar/gz are all acceptable).
+3. Upload them to the Mega Uploads folder provided below. You don't need an account, and filesize is not an issue.
+4. If you would like to be recognized for your donations, include a note inside the uploads and I'll be sure to add you to a thank you list on this page.  
 
-Use the MEGA uploads folder here:
+We'll give this a try and hopefully I won't see any abuse of the uploads folder.
 
+Use the MEGA uploads folder here:<br>
 [![mega_uploads](https://github.com/user-attachments/assets/bdd28a8c-6db1-42cc-b0e6-6dc1250b8f8a)](https://mega.nz/filerequest/CgJbFGg8ZCI) 
 
 ---
