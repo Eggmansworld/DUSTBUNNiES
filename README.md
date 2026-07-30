@@ -137,22 +137,6 @@ the official docs: [Microsoft - Maximum Path Length Limitation](https://learn.mi
 
 ---
 
-## Contributing
-
-Do you have some unknown files that still don't match with any dats? Submit them!
-
-1. Put your unknown files in separate folders named for their system
-2. create a single archive for each folder (zip/7z/rar/tar/gz are all acceptable).
-3. Upload them to the Mega Uploads folder provided below. You don't need an account, and filesize is not an issue.
-4. If you would like to be recognized for your donations, include a note inside the uploads and I'll be sure to add you to a thank you list on this page.  
-
-We'll give this a try and hopefully I won't see any abuse of the uploads folder.
-
-Use the MEGA uploads folder here:<br>
-[![mega_uploads](https://github.com/user-attachments/assets/bdd28a8c-6db1-42cc-b0e6-6dc1250b8f8a)](https://mega.nz/filerequest/CgJbFGg8ZCI) 
-
----
-
 ## Support
 
 If these tools, dats, or archives save you time, consider supporting the work:
